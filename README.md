@@ -1,207 +1,143 @@
-#  Hi, I'm Pradeep Yandrapu
+# Hi, I'm Pradeep Yandrapu 👋
 
-### Full Stack Developer | React.js & Next.js | Node.js & Express.js
+### Full Stack Developer · React.js · Next.js · Node.js
 
-I’m a **Full Stack Developer** focused on building production-ready web applications, scalable REST APIs, responsive user interfaces, and reliable backend systems.
+I build **modern, production-ready web applications** across the frontend, backend, database, and deployment layers.
 
-I enjoy working across the complete development lifecycle — from **UI development and API integration to databases, authentication, payments, deployment, and production debugging**.
+My work focuses on creating clean user interfaces, reliable APIs, database-driven applications, authentication systems, payment integrations, and production deployments.
 
-My background in **Electronics & Communication Engineering** also gives me a strong foundation in problem-solving, systems thinking, networking, and embedded technologies.
-
----
-
-##  About Me
-
-* 💻 **Junior Full Stack Developer** at **Akhiliagna IT Services**
-* 🌐 Building full-stack applications using **React.js, Next.js, Node.js and Express.js**
-* 🗄️ Working with **MySQL, PostgreSQL and Prisma**
-* 🔐 Implementing **REST APIs, JWT authentication and authorization**
-* 💳 Experience integrating **Stripe and Razorpay payment workflows**
-* 🚀 Deploying applications using **Linux, Nginx, PM2 and Vercel**
-* 🛠️ Comfortable with debugging frontend, backend, database and deployment issues
-* 🎓 B.Tech in **Electronics & Communication Engineering**
-* ⚡ Interested in building practical products that solve real-world problems
+Currently working as a **Junior Full Stack Developer at Akhiliagna IT Services**.
 
 ---
 
-##  Tech Stack
+## About
+
+* 💻 Full Stack Developer working with **React.js, Next.js, Node.js and Express.js**
+* ⚙️ Building REST APIs and full-stack applications
+* 🗄️ Working with **MySQL, PostgreSQL, MongoDB and Prisma**
+* 🔐 Experience with authentication, authorization and JWT
+* 💳 Experience with **Stripe and Razorpay** integrations
+* 🚀 Production deployment with **Linux, Nginx, PM2 and Vercel**
+* 🧩 Comfortable working across frontend, backend, database and deployment layers
+* 🎓 B.Tech in Electronics & Communication Engineering
+* 📍 India
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,bootstrap,tailwind" />
-</p>
-
-**React.js · Next.js · Angular · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS**
-
----
+`React.js` · `Next.js` · `Angular` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS`
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Authentication` · `Authorization`
 
-**Node.js · Express.js · REST APIs · JWT Authentication · API Integration · Authentication & Authorization**
+### Database
 
----
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
-</p>
-
-**MySQL · PostgreSQL · MongoDB · Prisma**
-
----
+`MySQL` · `PostgreSQL` · `MongoDB` · `Prisma`
 
 ### Payments & Integrations
 
-**Stripe · Razorpay · REST APIs · Third-party API Integration · Email/SMTP**
+`Stripe` · `Razorpay` · `REST APIs` · `Third-Party API Integration`
+
+### DevOps & Tools
+
+`Git` · `GitHub` · `Linux` · `Nginx` · `PM2` · `Vercel` · `Docker` · `Postman`
 
 ---
 
-### DevOps & Deployment
+# Selected Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vercel,docker" />
-</p>
+## 🌿 Vasavi Ayurveda
 
-**Git · GitHub · Linux · Nginx · PM2 · Vercel · Docker · CI/CD**
+Full-stack Ayurveda e-commerce platform with customer-facing application and administration workflows.
 
----
+**Highlights**
 
-### Development Tools
-
-**VS Code · Postman · Git · GitHub · npm · Chrome DevTools**
-
----
-
-#  Professional Experience
-
-## Junior Full Stack Developer — Akhiliagna IT Services
-
-I work across frontend and backend development, contributing to real-world web applications and production deployments.
-
-### Areas of work
-
-* Developing responsive interfaces with **React.js and Next.js**
-* Building and integrating **RESTful APIs**
-* Developing backend services using **Node.js and Express.js**
-* Working with **MySQL and PostgreSQL**
-* Implementing **JWT-based authentication**
-* Building admin dashboards and management systems
-* Integrating payment gateways including **Stripe and Razorpay**
-* Implementing shopping cart, checkout and order workflows
-* Working with third-party APIs
-* Debugging production issues across frontend, backend and database layers
-* Deploying applications on Linux VPS environments
-* Configuring **Nginx and PM2**
-* Managing environment variables and production configurations
-* Working with Git/GitHub-based development workflows
-
----
-
-#  Featured Projects
-
-## 🥯 Bagel Master — UK Cafe E-Commerce Platform
-
-A production-oriented e-commerce platform developed for a UK cafe business.
-
-### Features
-
-* Online food ordering
-* Collection and delivery workflows
-* Stripe payment integration
-* Order scheduling
-* Delivery distance-based charges
-* Cart and checkout system
+* Product catalogue and category management
+* Customer authentication
+* Shopping cart and checkout
+* Billing and shipping addresses
 * Order management
 * Admin dashboard
-* Refund workflow through Stripe
-* Responsive customer-facing UI
-* Production deployment
-
-### Tech
-
-**React.js · Node.js · Express.js · MySQL · Stripe · REST APIs · Nginx · PM2**
-
-🌐 **Live:** https://bagelmaster.co.uk/
-
----
-
-## 🌿 Vasavi Ayurveda — E-Commerce Platform
-
-A full-stack e-commerce application for an Ayurveda business with customer and administration workflows.
-
-### Features
-
-* Product catalogue
-* Categories and subcategories
-* Product management
-* Shopping cart
-* Customer authentication
-* Billing and shipping addresses
-* Checkout and order management
-* Admin dashboard
-* Doctor registration
-* Dynamic homepage content
-* Footer management
 * Payment integration
-* Shipment tracking integration
+* Shipment tracking
+* Dynamic website content management
 * Production deployment
 
-### Tech
+**Stack:** React.js · Vite · Node.js · Express.js · MySQL · JWT · Razorpay · Nginx · PM2
 
-**React.js · Vite · Node.js · Express.js · MySQL · JWT · REST APIs · Razorpay · Nginx · PM2**
+🌐 **Live:** https://vasaviayurveda.com/
 
 ---
 
 ## 🔮 Vasavi Astrology
 
-A modern astrology platform developed using a full-stack architecture.
+Full-stack astrology and Vedic services platform supporting astrology, Vaastu, Homas, Muhurtas, marriage matching and related services.
 
-### Tech
+**Highlights**
 
-**Next.js · TypeScript · Prisma · MySQL · REST APIs**
-
-### Areas
-
-* Modern frontend architecture
-* Server-side application development
-* Database integration
-* Prisma ORM
+* Service-driven architecture
+* Astrology and Vaastu services
+* Homa and Muhurta listings
+* Marriage matching
+* Customer-facing experience
 * Admin functionality
-* API-driven application structure
+* Database-backed application
+* Responsive UI
+
+**Stack:** Next.js · TypeScript · Prisma · MySQL
+
+🌐 **Live:** https://vasaviastrology.com/
 
 ---
 
-## 💍 Matrimony Application
+## 🥯 Bagel Master
 
-A full-stack matrimony application involving separate customer authentication and registration flows.
+Production e-commerce platform for a UK cafe with online ordering, collection and delivery workflows.
 
-### Features
+**Highlights**
 
-* User registration
-* User login
-* Profile workflows
-* Gothra selection
-* API integration
-* Authentication flows
-* Frontend/backend integration
+* Online ordering
+* Collection & delivery
+* Stripe payments
+* Order scheduling
+* Delivery distance calculation
+* Cart and checkout
+* Order management
+* Refund workflow
+* Admin dashboard
+* Production deployment
 
-### Tech
+**Stack:** React.js · Node.js · Express.js · Database · Stripe · REST APIs · Nginx · PM2
 
-**React.js · Node.js · Express.js · REST APIs · MySQL**
+🌐 **Live:** https://bagelmaster.co.uk/
 
 ---
 
-##  Student Empowerment Portal
+## 🏛️ Vadiyarajulu
 
-A full-stack platform designed to provide students with centralized access to academic information and resources.
+A production website developed for **Vadiyaraju Kshatriya Seva Samithi**.
 
-### Features
+**Focus**
+
+* Responsive website development
+* Structured content presentation
+* Modern UI implementation
+* Frontend development
+* Production deployment
+
+🌐 **Live:** https://vadiyarajulu.com/
+
+---
+
+## 🎓 Student Empowerment Portal
+
+A full-stack platform designed to centralize student resources and academic information.
+
+**Features**
 
 * Student dashboard
 * Notices
@@ -210,127 +146,63 @@ A full-stack platform designed to provide students with centralized access to ac
 * Authentication
 * REST API integration
 
-### Tech
-
-**React.js · Node.js · Express.js · MongoDB · JWT**
+**Stack:** React.js · Node.js · Express.js · MongoDB · JWT
 
 🌐 **Live:** https://student-portal-beta-gold.vercel.app/
 
 ---
 
-##  Laser Security System
+## 🔐 Laser Security System
 
-An embedded/IoT security prototype using laser and light-dependent sensing.
+An embedded security prototype using a laser beam and LDR sensors to detect interruptions and trigger an alert.
 
-### Concept
-
-The system uses a **laser beam and LDR sensors** to detect interruptions in the beam and trigger an alarm mechanism.
-
-### Technologies
-
-**Arduino · LDR Sensors · Embedded Systems · Electronics**
+**Technologies:** Arduino · LDR · Embedded Systems · Electronics
 
 ---
 
-#  What I Work With
+# Engineering Focus
+
+I enjoy working through the complete lifecycle of a web application:
 
 ```text
+Requirements
+     ↓
+UI / UX
+     ↓
 Frontend
-├── React.js
-├── Next.js
-├── Angular
-├── JavaScript
-├── TypeScript
-├── HTML5
-├── CSS3
-├── Bootstrap
-└── Tailwind CSS
-
+     ↓
+API Design
+     ↓
 Backend
-├── Node.js
-├── Express.js
-├── REST APIs
-├── JWT Authentication
-└── Third-party API Integration
-
+     ↓
 Database
-├── MySQL
-├── PostgreSQL
-├── MongoDB
-└── Prisma
-
-Payments
-├── Stripe
-└── Razorpay
-
+     ↓
+Authentication
+     ↓
+Integrations
+     ↓
 Deployment
-├── Linux
-├── Nginx
-├── PM2
-├── Vercel
-└── GitHub
-
-Tools
-├── Git
-├── GitHub
-├── Postman
-├── VS Code
-└── Chrome DevTools
+     ↓
+Monitoring & Debugging
 ```
 
----
-
-#  GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yandrapu1&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yandrapu1&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yandrapu1&theme=transparent&hide_border=true" />
-</p>
-
----
-
-#  My Development Focus
-
-```text
-Full Stack Development
-        ↓
-Frontend Architecture
-        ↓
-Backend & REST APIs
-        ↓
-Database Design
-        ↓
-Authentication & Security
-        ↓
-Payment Integrations
-        ↓
-Production Deployment
-        ↓
-Performance & Reliability
-```
-
-I’m continuously improving my understanding of:
+I'm currently deepening my knowledge in:
 
 * Advanced JavaScript
 * TypeScript
-* React architecture
-* Next.js
+* React & Next.js architecture
 * Backend architecture
 * Database design
 * API security
 * Authentication
 * System design
 * Performance optimization
-* DevOps and deployment
-* Data structures & algorithms
+* DevOps
+* Data Structures & Algorithms
 
 ---
 
-# 🎓 Education
+# Education
 
 ### B.Tech — Electronics & Communication Engineering
 
@@ -338,70 +210,53 @@ I’m continuously improving my understanding of:
 
 **CGPA: 8.55 / 10**
 
-My ECE background has helped me develop strong fundamentals in:
-
-* Electronics
-* Communication systems
-* Networking
-* Embedded systems
-* Logical problem solving
-* Hardware-software integration
-
 ---
 
-# 🏆 Achievements & Activities
+# Achievements
 
 * 🏅 NSS President during undergraduate studies
 * 👨‍💼 Class Representative
-* 🥇 Won 1st place in an academic expo for a **Laser Skin Technology** poster
-* 🔧 Worked on embedded and IoT-based projects
-* 🌐 Built and deployed full-stack web applications
-* 🚀 Worked with real production deployments and debugging
+* 🥇 1st place in an academic expo for a Laser Skin Technology project
+* 🔧 Built embedded and IoT-based projects
+* 🚀 Developed and deployed production web applications
 
 ---
 
-# 💡 Development Philosophy
+# GitHub
 
-> **Understand the problem first. Build the simplest reliable solution. Then improve it.**
-
-I believe good software is not just about writing code.
-
-It is about understanding:
-
-**Users → Requirements → Architecture → Code → Database → APIs → Security → Deployment → Maintenance**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yandrapu1&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yandrapu1&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# Connect
 
 <p align="left">
 
 <a href="https://github.com/Yandrapu1">
-  <img src="https://img.shields.io/badge/GitHub-Yandrapu1-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Yandrapu1-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/yandrapu-pradeep-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Yandrapu-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Yandrapu-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:yandrapupradeep@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yandrapupradeep%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-yandrapupradeep%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
 
 ---
 
-## 🌐 Portfolio
+### Portfolio
 
-**Portfolio:** Coming soon
+🌐 **https://YOUR-PORTFOLIO-DOMAIN**
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Debugging. Deploying. Repeating. 🚀</i>
+  <i>Build with purpose. Learn continuously. Ship reliably.</i>
 </p>
